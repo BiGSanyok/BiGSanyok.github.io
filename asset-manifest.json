@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/RPI2/static/css/main.c7ed5244.css",
-    "main.js": "/RPI2/static/js/main.18978102.js",
-    "static/media/HannariMincho-Regular.otf": "/RPI2/static/media/HannariMincho-Regular.a1df97cc2f67b4691906.otf",
-    "static/media/han-zi.ttf": "/RPI2/static/media/han-zi.edba6be7a0229d232e90.ttf",
-    "static/media/YujiHentaiganaAkebono-Regular.ttf": "/RPI2/static/media/YujiHentaiganaAkebono-Regular.659b9a6c86e3f8cc73c1.ttf",
-    "static/media/icon.png": "/RPI2/static/media/icon.69c55c22dac0ca31be4c.png",
-    "static/media/img3.jpg": "/RPI2/static/media/img3.6ced2248a41ecf8eb3de.jpg",
-    "index.html": "/RPI2/index.html",
-    "main.c7ed5244.css.map": "/RPI2/static/css/main.c7ed5244.css.map",
-    "main.18978102.js.map": "/RPI2/static/js/main.18978102.js.map"
+    "main.css": "/static/css/main.c09b0e07.css",
+    "main.js": "/static/js/main.81b0cfaf.js",
+    "static/media/HannariMincho-Regular.otf": "/static/media/HannariMincho-Regular.a1df97cc2f67b4691906.otf",
+    "static/media/han-zi.ttf": "/static/media/han-zi.edba6be7a0229d232e90.ttf",
+    "static/media/YujiHentaiganaAkebono-Regular.ttf": "/static/media/YujiHentaiganaAkebono-Regular.659b9a6c86e3f8cc73c1.ttf",
+    "static/media/icon.png": "/static/media/icon.69c55c22dac0ca31be4c.png",
+    "static/media/img3.jpg": "/static/media/img3.6ced2248a41ecf8eb3de.jpg",
+    "index.html": "/index.html",
+    "main.c09b0e07.css.map": "/static/css/main.c09b0e07.css.map",
+    "main.81b0cfaf.js.map": "/static/js/main.81b0cfaf.js.map"
   },
   "entrypoints": [
-    "static/css/main.c7ed5244.css",
-    "static/js/main.18978102.js"
+    "static/css/main.c09b0e07.css",
+    "static/js/main.81b0cfaf.js"
   ]
 }
