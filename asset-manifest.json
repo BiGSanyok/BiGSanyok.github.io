@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c09b0e07.css",
-    "main.js": "/static/js/main.81b0cfaf.js",
+    "main.js": "/static/js/main.966b487f.js",
     "static/media/HannariMincho-Regular.otf": "/static/media/HannariMincho-Regular.a1df97cc2f67b4691906.otf",
     "static/media/han-zi.ttf": "/static/media/han-zi.edba6be7a0229d232e90.ttf",
     "static/media/YujiHentaiganaAkebono-Regular.ttf": "/static/media/YujiHentaiganaAkebono-Regular.659b9a6c86e3f8cc73c1.ttf",
@@ -9,10 +9,10 @@
     "static/media/img3.jpg": "/static/media/img3.6ced2248a41ecf8eb3de.jpg",
     "index.html": "/index.html",
     "main.c09b0e07.css.map": "/static/css/main.c09b0e07.css.map",
-    "main.81b0cfaf.js.map": "/static/js/main.81b0cfaf.js.map"
+    "main.966b487f.js.map": "/static/js/main.966b487f.js.map"
   },
   "entrypoints": [
     "static/css/main.c09b0e07.css",
-    "static/js/main.81b0cfaf.js"
+    "static/js/main.966b487f.js"
   ]
 }
